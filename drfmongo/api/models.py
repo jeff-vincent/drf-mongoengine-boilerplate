@@ -1,8 +1,7 @@
 from django.db import models
 
 class Property(models.Model):
-
-    id = Column(Integer, primary_key=True)
+    
     x = Column(String(50))
     y = Column(String(50))
     pams_pin = Column(String(50)) 
