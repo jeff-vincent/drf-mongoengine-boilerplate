@@ -1,6 +1,6 @@
 from django.db import models
 
-class Property(Base):
+class Property(models.Base):
 
     id = Column(Integer, primary_key=True)
     x = Column(String(50))
