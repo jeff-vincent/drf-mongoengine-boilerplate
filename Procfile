@@ -1,0 +1,1 @@
+web: gunicorn drfmongo.wsgi --log-file -
