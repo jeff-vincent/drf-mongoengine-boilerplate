@@ -1,6 +1,7 @@
 from django.contrib.auth.models import User, Group
 from rest_framework import viewsets
 from .serializers import UserSerializer, GroupSerializer, PropertySerializer
+from .models import Property
 
 class UserViewSet(viewsets.ModelViewSet):
     """
