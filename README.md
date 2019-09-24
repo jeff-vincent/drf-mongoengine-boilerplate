@@ -1,2 +1,2 @@
-# drf-mongoengine-boilerplate
-drf-mongoengine-boilerplate kinda says it all...
+# drf + djongo
+Django Rest Framework paired with MongoDB by way of Djongo. 
