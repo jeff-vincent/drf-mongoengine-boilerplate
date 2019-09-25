@@ -26,7 +26,7 @@ SECRET_KEY = 'r-3d$rbby@s@carmyn-y5x8__$$hkuh)o3d36yl*j&@_$+ywl#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['drfmongo.herokuapp.com']
+ALLOWED_HOSTS = ['sleepy-scrubland-22421.herokuapp.com']
 
 
 # Application definition
