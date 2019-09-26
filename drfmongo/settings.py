@@ -85,8 +85,8 @@ DATABASES = {
         'ENGINE': 'djongo',
         'NAME': 'test',
         'HOST': 'mongodb+srv://jeff:Caitlyn48@cluster0-intvw.mongodb.net/test?retryWrites=true&w=majority',
-        'USER': 'user',
-        'PASSWORD': 'password',
+        'USER': 'jeff',
+        'PASSWORD': 'Caitlyn48',
         'ENFORCE_SCHEMA': False
 
     }
