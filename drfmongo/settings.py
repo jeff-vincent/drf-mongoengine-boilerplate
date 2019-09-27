@@ -83,7 +83,7 @@ REST_FRAMEWORK = {
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
-        'NAME': 'test',
+        'NAME': 'drfmongo',
         'HOST': 'mongodb+srv://jeff:Caitlyn48@cluster0-intvw.mongodb.net/test?retryWrites=true&w=majority',
         'USER': 'jeff',
         'PASSWORD': 'Caitlyn48',
